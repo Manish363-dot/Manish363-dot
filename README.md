@@ -97,7 +97,7 @@
 
 
 
-## 🏆 GitHub Trophies  
+## 🏆 GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=manish363-dot&theme=onedark&no-frame=true&no-bg=true&margin-w=15&title=Stars,Followers,Commit,Repositories,Issues,PullRequest" />
 </p>
