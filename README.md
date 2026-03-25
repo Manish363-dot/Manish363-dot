@@ -26,7 +26,7 @@
 <!-- ======================= TITLE ======================= -->
 
 
-<h1 align="center">Hi 👋, I'm <b>Manish Paliwal</b></h1>
+<h1 align="center">Hi 👋, I'm <b>Manish Paliwal</b></h1> 
 
 <h3 align="center">
 💻 Diploma Student in <b>Computer Science Engineering</b> 👩‍💻🖥️  
