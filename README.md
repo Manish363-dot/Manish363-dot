@@ -58,7 +58,7 @@
 
 
 <!-- ======================= LANGUAGES & TOOLS ======================= -->
-## 💻 Languages & Tools  
+## 💻 Languages & Tools    
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c" width="50" />
   <img src="https://skillicons.dev/icons?i=cpp" width="50" />
