@@ -45,7 +45,7 @@
 </p>
 
 <!-- ======================= ABOUT ======================= -->
-<h3>About me</h3>
+<h3>About me</h3>   
 
 - 🔭 I’m currently working on **Web Development, Learning statistics and algorithms | Preparing for Data Science**
 - 🌱 I’m currently learning **React | Framer Motion | Node & ExpressJS**
